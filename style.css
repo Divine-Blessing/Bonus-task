@@ -23,6 +23,7 @@ html{
 }
 .left{
     width: 50%;
+    float: left;
 }
 #first .left img{
     width: 450px;
@@ -32,6 +33,7 @@ html{
 }
 .right{
     width: 50%;
+    float: right;
 }
 .right .we{
     display: flex;
