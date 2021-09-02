@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Roboto', sans-serif;
+    background: #F9FCFC;  
+}
+.welcome center h2{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+    padding: 10px;
+    margin-top: 60px;
+    margin-bottom: 80px;  
+}
+#first{
+    width: 90%;    
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    width: 50%;
+}
+#first .left img{
+    width: 450px;
+    height: 550px;
+    position: relative;
+    margin-left: 250px;
+}
+.right{
+    width: 50%;
+}
+.right .we{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.right .we h2{
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35px;
+    color: #0d0c0c;
+}
+.we .hr{
+    width: 67.5px;
+    border: 4px solid #d89616;
+}
+.right p{
+    font-size: 23px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #0d0c0c;
+}
+#second .contact{
+    margin: 80px auto;
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid white;
+    width: 852px;
+    height: 657px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#second .contact h1{
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 59px;
+    color: #0d0c0c;
+    margin-bottom: 20px;
+}
+#second .contact h4{
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 21px;
+    color: #0d0c0c;
+    margin-bottom: 5px;
+}
+#second .contact .input{
+    margin-bottom: 20px;
+    background: white;
+    border: 1px solid #0d0c0c;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 663px;
+    height: 200px;
+}
+#second .contact .big{
+    width: 663px;
+    height: 600px;
+    margin-bottom: 2px;
+    background: white;
+    border: 1px solid #0d0c0c;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+#second .contact .submit{
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 23px;
+
+    width: 217px;
+    height: 200px;
+    background: rgba(0, 77, 230, 0.76);
+    border-radius: 8px;
+    border: rgba(0, 77, 230, 0.76);
+
+    margin-left: 450px;
+}
+
