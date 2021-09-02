@@ -28,7 +28,7 @@ html{
     width: 450px;
     height: 550px;
     position: relative;
-    margin-left: 250px;
+    margin-left: 150px;
 }
 .right{
     width: 50%;
@@ -51,7 +51,7 @@ html{
     border: 4px solid #d89616;
 }
 .right p{
-    font-size: 23px;
+    font-size: 20px;
     font-weight: normal;
     line-height: 21px;
     color: #0d0c0c;
