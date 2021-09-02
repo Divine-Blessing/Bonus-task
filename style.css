@@ -29,7 +29,7 @@ html{
     width: 450px;
     height: 550px;
     position: absolute;
-    /* margin-left: 80px; */
+    margin-left: 80px;
     margin-right: 20px;
 }
 .right{
