@@ -28,7 +28,7 @@ html{
 #first .left img{
     width: 450px;
     height: 550px;
-    position: relative;
+    position: absolute;
     /* margin-left: 80px; */
     margin-right: 20px;
 }
