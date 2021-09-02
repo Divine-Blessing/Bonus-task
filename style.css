@@ -30,6 +30,7 @@ html{
     height: 550px;
     position: relative;
     /* margin-left: 80px; */
+    margin-right: 20px;
 }
 .right{
     width: 50%;
